@@ -8,6 +8,8 @@ To download all files simply select the ***Download Zip*** button from the repos
 
 To download an individual file, navigate to the file and select it. Wait for the preview to render and then select the ***Raw*** button or, in the case of Word docs, select the ***View Raw*** link in the preview area.   You will be offered the file download dialog.
 
+For mobile users, you may have to view the desktop version of github.com; the mobile web does not seem to handle these files correctly.  On android, if you are offered a choice of apps after selecting the file, choose your browser so it will render the preview.  If you choose Adobe Acrobat, it will not correctly render the pdf.
+
 ***Please note:*** these notes have not been edited or vetted by anyone at this point. It is possible that they may have errors or misinformation in them.  If you find errors, omissions or misinformation, please contribute fixes.  I am hoping that the community can use and improve these notes so that they will become a a solid resource for the specialization.  
 
 ##Contributing
