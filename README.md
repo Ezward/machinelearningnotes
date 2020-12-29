@@ -1,7 +1,9 @@
 # machinelearningnotes
 ## Notes for the Coursera Machine Learning Specialization created by the University of Washingtion
 
-These notes were useful to me and I hope they will be useful to others. So far, I have taken the first two courses, but I have detailed notes only for the second course; Regression.  I plan to add notes from other courses as I take them.
+These notes were useful to me and I hope they will be useful to others that that take these UofWa courses or other courses in Machine Learning.
+
+Based on knowledged gained in the Clustering and Retrieval course, I've implemented a few clustering algorithms with an interactive web UI in this repo; https://github.com/Ezward/clustering-javascript. It is written in simple JavaScript and so should be easy to understand.  It includes an implementation of DBSCAN, which was not covered extensively in the course.
 
 ## Downloading
 The best way to download the files is to clone the repository.  Then when an update is posted you can simply do a pull to get all the updates.  Also, if you find a 'bug', you can fix it and submit a pull request so the fix gets into the repo.
